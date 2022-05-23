@@ -1,1 +1,1 @@
-# gama-no-javascript-basico
+# hiring-coders-gama-no-javascript-basico
